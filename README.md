@@ -20,8 +20,7 @@ I'm **Hugo Arthur Bourlot**, a programming student currently learning **C/C++** 
 - 🎯 I'm actively looking for an **internship opportunity** where I can contribute and grow as a developer.
 - 🌱 Currently diving deep into **C++** and exploring computer science fundamentals.
 - 🏫 Studying at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum.
-- 🤓 Fun fact: In **C**, arrays and pointers are closely related—but they're not the same thing!
-- ⚡ Fun fact: Did you know pointers are much easier than they seem? 😇!
+- 🤓 Fun fact: Did you know pointers are much easier than they seem? 😇!
 
 
 ## 📫 Connect with me

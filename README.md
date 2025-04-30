@@ -42,13 +42,13 @@ I'm **Hugo Arthur Bourlot**, a programming student currently learning **C/C++** 
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=hbourlot&label=Profile%20views&color=0e75b6&style=flat" alt="hbourlot" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbourlot&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hbourlot&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>

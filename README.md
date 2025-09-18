@@ -42,6 +42,7 @@ I'm **Hugo Arthur Bourlot**, a programming student currently learning **C/C++** 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hbourlot&label=Profile%20views&color=0e75b6&style=flat" alt="hbourlot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hbourlot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800&token=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" />
 </p>
 
 <p align="left">

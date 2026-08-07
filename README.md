@@ -19,7 +19,7 @@ I'm **Hugo Arthur Bourlot**, a programming student currently learning **C/C++** 
 
 - 🎯 I'm actively looking for an **internship/junior opportunity** where I can contribute and grow as a developer.
 - 🌱 Currently diving deep into **C++, React+TypeScript** and exploring computer science fundamentals.
-- 🏫 Studying at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum.
+- 🏫 Graduated at **42 Lisboa**, a peer-to-peer coding school with a hands-on, project-based curriculum.
 
 
 ## 📫 Connect with me
